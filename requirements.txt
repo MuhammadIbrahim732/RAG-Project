@@ -1,0 +1,30 @@
+# Gemini API and LangChain
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+
+# Vector database
+chromadb
+
+# Document loading
+pypdf
+docx2txt
+
+# Environment variables
+python-dotenv
+
+# Web application (new)
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Data validation
+pydantic
+
+# Utilities
+tiktoken
+
+# Optional: monitoring and debugging
+langsmith
